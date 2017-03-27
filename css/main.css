@@ -798,13 +798,13 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .drop-cap:first-letter {
 	float: left;
 	margin: 0;
-	padding: 1.5rem .6rem 0 0;
-	font-size: 8.4rem;
+	padding: 1rem .4rem 0 0;
+	font-size: 6rem;
 	font-family: "poppins-bold", sans-serif;
 	line-height: 6rem;
 	text-indent: 0;
 	background: transparent;
-	color: #313131;
+	color: #FF0077;
 }
 
 /**
